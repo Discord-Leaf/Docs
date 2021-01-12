@@ -3,8 +3,8 @@
 const siteConfig = {
   title: 'Leaf', // Title for your website.
   tagline: 'Official Leaf Docs',
-  url: 'https://Dicord-Leaf.github.io', // Your website URL
-  baseUrl: '/Docs/', // Base URL for your project */
+  url: 'https://docs.leaf-bot.xyz', // Your website URL
+  baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
